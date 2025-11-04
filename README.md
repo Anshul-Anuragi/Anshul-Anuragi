@@ -5,13 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anshul-Anuragi&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anshul-Anuragi&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=false&border_radius=10&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul-Anuragi&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" height="180" />
 </p>
-
-
-
 
