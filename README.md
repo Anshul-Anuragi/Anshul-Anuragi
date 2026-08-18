@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-   <span style="font-family: monospace;">🇭‌🇮‌. 🇮‌🇲‌ ᴀɴꜱʜᴜʟ</span>
+   <span style="font-family: monospace;">𝚑𝚒, 𝚒𝚖 ᴀɴꜱʜᴜʟ</span>
   </h1>
   <p>
     <em>about me: 20 years old from India, engineer/developer.</em>
@@ -20,9 +20,9 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img src="assets/bigthree.jpg" alt="bigthree" width="60%" />
-</div>
+</div> -->
 
 <!-- <div align="center">
   <h3><em>"If at first, you don’t succeed, you must be a programmer."</em></h3>
